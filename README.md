@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joshtech234ng
+- 👋 Hi, I’m Joshua@Joshtech234ng
 - 👀 I’m interested in Web development, datascience, mobile development and machine Learning
 - 🌱 I’m currently learning Reactjs and flutter
 - 💞️ I’m looking to collaborate on mobile dev, web dev and machine learning projects
